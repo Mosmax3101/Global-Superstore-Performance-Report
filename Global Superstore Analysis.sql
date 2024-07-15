@@ -1,5 +1,4 @@
 --ABUDU HALIMAT OLUWABUKOLA
---Graduation Project
 -- Topic: Global Superstore Analysis
 
 -- The first question is;
